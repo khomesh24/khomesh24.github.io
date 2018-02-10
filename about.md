@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Enthusiastic OpenSource contributor, Python developer, Beginner in Docker
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am a Software engineer and a Open Source Contributer. I like to learn new technology and I love PYTHON.  
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[khomeshthakre24@gmail..com](mailto:khomeshthakre24@gmail.com)
