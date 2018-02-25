@@ -6,9 +6,11 @@ permalink: /about/
 
 Enthusiastic OpenSource contributor, Python developer, Beginner in Docker
 
-### More Information
+### IRC 
 
-I am a Software engineer and a Open Source Contributer. I like to learn new technology and I love PYTHON.  
+![img]({{ site.baseurl }}https://avatars3.githubusercontent.com/u/1115937?s=200&v=4){: .center-image}
+
+Ping me at freenode, My nick is khomesh at channel #ritinlug, ##university-outreach  
 
 ### Contact me
 
