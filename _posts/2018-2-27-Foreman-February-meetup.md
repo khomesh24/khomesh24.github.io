@@ -29,6 +29,7 @@ After that [Sachin Ghai](https://github.com/sghai) provide a deep understanding 
 
 
 <!-- ![Foreman meetup](/images/foreman-1.jpeg) -->
-<img src="/images/foreman-1.jpeg" width="650px" height="400px">
+<img src="/images/foreman-1.jpeg" width="670px" height="400px">
+
 At the end of meetup, Anurag told us how to contribute to the foreman project. He told us about [redmine](https://www.redmine.org/) issue tracker, IRC channels(#theforeman, #theforeman-dev) and mailing list.
 
